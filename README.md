@@ -13,7 +13,7 @@ This repository hosts my 30‑day self‑guided Python curriculum, crafted to tr
 
 ```bash
 # clone repo
-git clone <YOUR_URL>
+git clone https://gitlab.com/mirwanasikin/python-progress.git
 cd book_md
 # create isolated environment
 python3 -m venv .venv && source .venv/bin/activate
